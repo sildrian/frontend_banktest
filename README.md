@@ -7,6 +7,7 @@ Frontend test using next.js
 3) writer use node version= v21.6.0; npm version= 10.2.4
 4) run, npm install (to install packages)
 5) run, npm run dev
+6) dont forget create .env file (the fill same with env.local)
 
 # Account for login
 - username: tester, password: tester123
